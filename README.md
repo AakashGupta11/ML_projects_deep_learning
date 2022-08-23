@@ -1,4 +1,4 @@
-# ML_projects_deep_learning
+# ML projects: Deep Learning
 ML projects for beginners in deep learning
 It contains projects for beginners in deep learning, 
 1. Ciphar 10 using cnn
